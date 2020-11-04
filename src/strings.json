@@ -1,0 +1,62 @@
+{
+  "da": {
+    "header": "Du er blevet inviteret til at tilslutte dig en server",
+    "online": "{{count}} online",
+    "members": "{{count}} medlemmer",
+    "button": "Tilslut"
+  },
+    "de": {
+    "header": "Du wurdest eingeladen, einem Server beizutreten",
+    "online": "{{count}} online",
+    "members": "{{count}} Mitglieder",
+    "button": "Beitreten"
+  },
+  "en": {
+    "header": "You've been invited to join a server",
+    "online": "{{count}} Online",
+    "members": "{{count}} Members",
+    "button": "Join"
+  },
+  "hu": {
+    "header": "Meghívtak, hogy csatlakozz egy szerverre",
+    "online": "{{count}} online",
+    "members": "{{count}} tag",
+    "button": "Csatlakozás"
+  },
+  "ja": {
+    "header": "サーバーへの招待を送信しました",
+    "online": "{{count}}人がオンライン",
+    "members": "{{count}}人",
+    "button": "参加しました"
+  },
+  "lt": {
+    "header": "Tu buvai pakviestas prisijungti prie serverio",
+    "online": "{{count}} prisijungęs",
+    "members": "{{count}} Nariai",
+    "button": "Prisijungti"
+  },
+  "no": {
+    "header": "Du har blitt invitert til å bli med i en server",
+    "online": "{{count}} pålogget",
+    "members": "{{count}} medlemmer",
+    "button": "Bli med"
+  },
+  "pt": {
+    "header": "Você foi convidado(a) a entrar em um servidor",
+    "online": "{{count}} online",
+    "members": "{{count}} Membros",
+    "button": "Juntar-se"
+  },
+  "ru": {
+    "header": "Вы были приглашены присоединиться к серверу",
+    "online": "{{count}} в сети",
+    "members": "{{count}} участников",
+    "button": "Вступить"
+  },
+  "uk": {
+    "header": "Тебе запросили приєднатися до сервера",
+    "online": "{{count}} у мережі",
+    "members": "{{count}} учасників",
+    "button": "Приєднатися"
+  }
+}
